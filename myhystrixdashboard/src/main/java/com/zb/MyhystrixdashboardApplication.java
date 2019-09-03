@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 @SpringBootApplication
 @EnableHystrixDashboard
 //张三丰
-//李小璐
+//李小璐123
 public class MyhystrixdashboardApplication {
 
     public static void main(String[] args) {
