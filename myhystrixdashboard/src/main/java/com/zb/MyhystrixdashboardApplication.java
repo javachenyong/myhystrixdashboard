@@ -6,6 +6,7 @@ import org.springframework.cloud.netflix.hystrix.dashboard.EnableHystrixDashboar
 
 @SpringBootApplication
 @EnableHystrixDashboard
+//张三丰
 public class MyhystrixdashboardApplication {
 
     public static void main(String[] args) {
